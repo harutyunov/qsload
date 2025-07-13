@@ -1,4 +1,4 @@
-# Chrome Extension: QlikSense Reload Progress Tracker
+# Chrome Extension: Qlik Sense Reload Progress Tracker
 
 This Chrome extension allows you to monitor progress of QlikSense application reloads while working in other browser tabs.
 Ideal for scenarios where you need to:
