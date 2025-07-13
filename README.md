@@ -1,2 +1,2 @@
-# qsload
-QlikSense load duration - Chrome Tab Extension
+# QlikSense load duration - Chrome Tab Extension
+
